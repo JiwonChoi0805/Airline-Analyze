@@ -13,7 +13,7 @@ Evening: 17:00 이상 - 21:00미만 <br/>
 Night: 이상 21:00이상 - 24:00 미만 <br/>
 Late Night: 00:00이상 - 5:00 미만 <br/>
  <br/>
-2.출발일에 임박하여 사는 항공권이 더 비싼가? days_left - price <br/>
+2.출발일에 임박하여 사는 항공권이 더 비싼가? days_left - price <br/><br/>
 3.출발공항에 따라 항공권 가격이 어떻게 다를까? source_airport - price <br/>
 
 
